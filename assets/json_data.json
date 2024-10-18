@@ -1,0 +1,27 @@
+{
+  "status": true,
+  "data": [
+    {
+      "id": 5810,
+      "productID": 12,
+      "productName": "Cow Milk(1L)",
+      "price": 130,
+      "qty": 1,
+      "segmentPrice": 130,
+      "maxQty": 5,
+      "image": "https://csm.augtrans.com:4043/ovino/cowmilk.jpg"
+    },
+    {
+      "id": 5809,
+      "productID": 15,
+      "productName": "A2 Cow Milk(1L)",
+      "price": 150,
+      "qty": 1,
+      "segmentPrice": 150,
+      "maxQty": 10,
+      "image": "https://csm.augtrans.com:4043/ovino/a2_cowmilk.jpg"
+    }
+
+
+  ]
+}
